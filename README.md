@@ -54,9 +54,8 @@ This project uses an **ESP32** and **soil humidity sensors** to create an automa
 - This project was designed to work with the ESP32 development board. If you're using a different board, pin assignments may need to be adjusted.
 - The system is designed to be powered by a power supply  **3.3V** , make sure the pump is suitable
 
-╔════════════════════════════════════════════════════════════╗
-║                      COMPONENT CONNECTIONS                 ║
-╚════════════════════════════════════════════════════════════╝
+
+# COMPONENT CONNECTIONS                
 
 **Microcontroller**: ESP32 DEVKIT V1 (30 pins)
 
